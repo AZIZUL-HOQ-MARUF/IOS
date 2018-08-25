@@ -253,7 +253,8 @@
      
      as we wanted, First value will be removed and will start showing the second input while start taking the second value.
      
-     after removing label text we will set flag to NO so that user can input data continiously.if we do not set flag to NO each number input will be deleted and do not append with previous number.
+     after removing label text we will set flag to NO so that user can input data continiously.
+     if we do not set flag to NO each number input will be deleted and do not append with previous number.
      
      */
     if(flag){
